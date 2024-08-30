@@ -38,6 +38,9 @@ Depois reniciar seguir com a instalacao
 cd /root
 ```
 ```bash
+apt install git -y
+```
+```bash
 git clone https://github.com/fabriciosprj/izing.instalador.git izinginstalador
 ```
 Editar dados com seus dados, com nano para salvar aperta Ctrl + x
