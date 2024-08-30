@@ -38,7 +38,7 @@ Depois reniciar seguir com a instalacao
 cd /root
 ```
 ```bash
-git clone https://github.com/cleitonme/izing.instalador.git izinginstalador
+git clone https://github.com/fabriciosprj/izing.instalador.git izinginstalador
 ```
 Editar dados com seus dados, com nano para salvar aperta Ctrl + x
 ```bash
@@ -140,6 +140,6 @@ WHAZING
 
 ## Consultoria particular
 
-Para quem gostaria de uma consultoria ou que eu faça instalação pode chamar no whatsapp (será cobrado por isso) 48 999416725 
+Para quem gostaria de uma consultoria ou que eu faça instalação pode chamar no whatsapp (será cobrado por isso) 0800 591 8640
 
--  [Nova Versão com API Bayles](https://github.com/cleitonme/Whazing-SaaS.instalador)
+
