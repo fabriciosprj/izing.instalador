@@ -1,4 +1,4 @@
-[![Grupo do WhatsApp](https://img.shields.io/badge/WhatsApp-Grupo%20IZING-brightgreen.svg)](https://chat.whatsapp.com/IIReEheixAx27ZbneHpskP)
+[![Grupo do WhatsApp](https://img.shields.io/badge/WhatsApp-Grupo%20Whazing-brightgreen.svg)](https://chat.whatsapp.com/KAk11eaAfRu6Bp13wQX6MB)
 
 ## CRIAR SUBDOMINIO E APONTAR PARA O IP DA SUA VPS
 
@@ -44,9 +44,12 @@ apt install git -y
 git clone https://github.com/fabriciosprj/izing.instalador.git izinginstalador
 ```
 Editar dados com seus dados, com nano para salvar aperta Ctrl + x
+
+Você pode definir o timezone desejado usando a variável de ambiente TIMEZONE. Caso não seja informado, o sistema usará o timezone padrão: America/Sao_Paulo.
 ```bash
 nano ./izinginstalador/config
 ```
+
 ```bash
 sudo chmod +x ./izinginstalador/izing
 ```
